@@ -1,0 +1,20 @@
+{
+  "users": {
+    "242068450932": {
+      "sudoList": [
+        "242068450932@s.whatsapp.net",
+        "242068450932@s.whatsapp.net"
+      ],
+      "tagAudioPath": "database/ZZZ.mp3",
+      "antilink": true,
+      "response": true,
+      "autoreact": false,
+      "prefix": ".",
+      "reaction": "⚡",
+      "welcome": true,
+      "record": true,
+      "type": true,
+      "publicMode": false
+    }
+  }
+}
