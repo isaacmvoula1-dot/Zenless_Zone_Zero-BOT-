@@ -1,0 +1,6 @@
+import { encryptOwners } from './utils/ZZZCreator.js';
+
+await encryptOwners([
+  "242068450932",
+  "242068450932"
+]);
