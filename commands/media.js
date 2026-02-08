@@ -8,7 +8,7 @@ export async function photo(client, message) {
         
         if (!target) {
             return await client.sendMessage(message.key.remoteJid, {
-                text: '📸 *Digital Crew 243*\n\nRépondez à un sticker pour le convertir en image.\n\nUsage: .photo (réponse à un sticker)'
+                text: '📸 *Zenless Zone Zero*\n\nRépondez à un sticker pour le convertir en image.\n\nUsage: .photo (réponse à un sticker)'
             })
         }
 
