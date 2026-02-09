@@ -1,5 +1,5 @@
 
-export const DigixNew = (message) => {
+export const ZenlessZoneZero = (message) => {
 
     if (!message) return null;
 
